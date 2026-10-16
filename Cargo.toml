@@ -2,5 +2,11 @@
 name = "landmine"
 version = "0.1.0"
 edition = "2024"
+readme = "README.md"
+description = "Boom."
+license = "Apache-2.0"
+repository = "https://github.com/terranesoftware/landmine"
+keywords = ["drop", "invariants", "option", "panic", "wrapper"]
+categories = ["data-structures", "rust-patterns"]
 
 [dependencies]
